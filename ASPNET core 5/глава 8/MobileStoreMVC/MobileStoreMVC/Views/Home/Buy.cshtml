@@ -1,0 +1,25 @@
+﻿@model int
+@{
+    ViewData["Title"] = "Оформление заказа";
+}
+
+<h3>Форма оформления покупки</h3>
+<p>Для оформления покупки заполните следующие поля:</p>
+<form method="post" class="form-horizontal" role="form">
+    <input type="hidden" value="@Model" name="PhoneId" />
+    <table>
+        <tr>
+            <td>Имя:</td>
+            <td><input type="text" name="User" /> </td>
+        </tr>
+        <tr>
+            <td>Адрес:</td>
+            <td><input type="text" name="Adress" /></td>
+        </tr>
+        <tr>
+            <td>Телефон:</td>
+            <td><input type="text" name="ContactPhone" /></td>
+        </tr>
+        <tr><td><input type="submit" value="Отправить" /> </td><td></td></tr>
+    </table>
+</form>

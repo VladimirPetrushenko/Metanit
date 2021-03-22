@@ -1,0 +1,7 @@
+﻿@using (Html.BeginForm("Create", "Home", FormMethod.Post)) {
+    @Html.DropDownList("userid", ViewBag.Users as SelectList)
+    <br />
+    <p>
+        <input type="submit" value="Отправить" />
+    </p>
+}

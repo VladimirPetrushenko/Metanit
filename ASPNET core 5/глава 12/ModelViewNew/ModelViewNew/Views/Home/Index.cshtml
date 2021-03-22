@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IndexViewModel
+    <form action="/" method="post" class="form-inline">
+        <label>Выберите компанию</label>
+        <select name="companyId" class="form-control">
+            @foreach (var item in Model.Companies)
+            {
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+        <input type="submit" name="Выбрать"  />
+    </form>
+<table class="table">
+    @foreach (var item in Model.Phones)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Manufacturer.Name</td>
+            <td>@item.Price</td>
+        </tr>
+    }
+</table>
