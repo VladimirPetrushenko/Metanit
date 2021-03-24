@@ -1,0 +1,2 @@
+D:\C#\metanit\TypeScript\глава 2\BubleSort\BubleSort\obj\Debug\BubleSort.njsproj.CoreCompileInputs.cache
+D:\C#\metanit\TypeScript\глава 2\BubleSort\BubleSort\bin\Microsoft.NodejsTools.WebRole.dll

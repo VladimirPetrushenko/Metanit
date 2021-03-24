@@ -1,0 +1,2 @@
+D:\C#\metanit\TypeScript\глава 1\FirstApp\FirstApp\obj\Release\FirstApp.njsproj.CoreCompileInputs.cache
+D:\C#\metanit\TypeScript\глава 1\FirstApp\FirstApp\bin\Microsoft.NodejsTools.WebRole.dll

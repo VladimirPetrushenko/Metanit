@@ -1,0 +1,3 @@
+D:\C#\metanit\TypeScript\глава 1\FirstApp\FirstApp\obj\Debug\FirstApp.njsprojAssemblyReference.cache
+D:\C#\metanit\TypeScript\глава 1\FirstApp\FirstApp\obj\Debug\FirstApp.njsproj.CoreCompileInputs.cache
+D:\C#\metanit\TypeScript\глава 1\FirstApp\FirstApp\bin\Microsoft.NodejsTools.WebRole.dll

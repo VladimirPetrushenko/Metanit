@@ -1,0 +1,2 @@
+D:\C#\metanit\TypeScript\глава 2\WorkInTypeData\WorkInTypeData\obj\Debug\WorkInTypeData.njsproj.CoreCompileInputs.cache
+D:\C#\metanit\TypeScript\глава 2\WorkInTypeData\WorkInTypeData\bin\Microsoft.NodejsTools.WebRole.dll

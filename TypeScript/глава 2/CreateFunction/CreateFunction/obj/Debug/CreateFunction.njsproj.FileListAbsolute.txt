@@ -1,0 +1,2 @@
+D:\C#\metanit\TypeScript\глава 2\CreateFunction\CreateFunction\obj\Debug\CreateFunction.njsproj.CoreCompileInputs.cache
+D:\C#\metanit\TypeScript\глава 2\CreateFunction\CreateFunction\bin\Microsoft.NodejsTools.WebRole.dll
